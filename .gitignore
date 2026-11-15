@@ -27,7 +27,5 @@ temp_interactive_push.bat
 config.bat
 
 # Never commit real environment files
-.env
-.env.*
 !.env.example
 !.env.*.example
